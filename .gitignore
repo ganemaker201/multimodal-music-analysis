@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/raw/*
+data/processed/*
+outputs/models/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!outputs/models/.gitkeep
+.env
+*.egg-info/
+dist/
+build/
